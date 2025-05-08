@@ -7,7 +7,7 @@
 
 ## About me
 - 🌱 I’m currently learning MERN Stack and Java.
-- 💬 Ask me about [here](https://github.com/myselfnovice/myselfnovice/issues)
+- 💬 Ask me about [here](https://github.com/Sa43dMS22/Sa43dMS22/issues)
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/Hey_Novice) and [LinkedIn](https://www.linkedin.com/in/mohdsaeed).
 <br>
 
@@ -25,15 +25,15 @@
 
 
 ## Statistics
-| <a href="https://github.com/myselnovice/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=myselfnovice&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MySelf's github stats" /></a> | <a href="https://github.com/myselfnovice/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfnovice&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/myselnovice/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sa43dMS22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MySelf's github stats" /></a> | <a href="https://github.com/Sa43dMS22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa43dMS22&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myselfnovice)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sa43dMS22)](https://git.io/streak-stats)
 
 <br>
 
 ## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myselfnovice&repo=Enquiry-Bot)](https://github.com/myselfnovice/Enquiry-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sa43dMS22&repo=Enquiry-Bot)](https://github.com/Sa43dMS22/Enquiry-Bot)
 
 ## Recent ...
 
@@ -66,7 +66,7 @@
 
 
 <!--
-**myselfnovice/myselfnovice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sa43dMS22/Sa43dMS22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
